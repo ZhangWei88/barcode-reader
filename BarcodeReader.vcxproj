@@ -238,6 +238,7 @@
     <ClCompile Include="zxing\ZXBigInteger.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="image_proc\stb_image.h" />
     <ClInclude Include="zxing\aztec\AZDecoder.h" />
     <ClInclude Include="zxing\aztec\AZDetector.h" />
     <ClInclude Include="zxing\aztec\AZDetectorResult.h" />

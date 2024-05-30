@@ -61,6 +61,12 @@
     <Filter Include="Source Files\zxing\qrcode">
       <UniqueIdentifier>{2e705aa2-fddb-4562-be75-f7a37e0a49a7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\image_proc">
+      <UniqueIdentifier>{b56293ce-7971-4f0a-b298-bab4d1eeada2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\image_proc">
+      <UniqueIdentifier>{7c4ffd20-dc3a-465f-ac44-d1cec85bfc72}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BarcodeReader.cpp">
